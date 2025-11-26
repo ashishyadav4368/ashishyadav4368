@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashishyadav4368/ashishyadav4368/main/Banner.png" alt="Ashish Yadav Banner" width="850" height="400" />
+</p>
+
+
 <h1 align="center">👋 Hi, I'm <strong>Ashish Yadav</strong></h1>
 <h3 align="center">💻 Full Stack Developer | MERN | Java & Spring Boot | UI/UX Enthusiast</h3>
 
